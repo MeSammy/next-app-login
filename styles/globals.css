@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.topCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mt-2 {
+  margin-top: 16px;
+}
+
+.mt-3 {
+  margin-top: 24px;
+}

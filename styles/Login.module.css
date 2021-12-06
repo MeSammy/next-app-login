@@ -1,0 +1,9 @@
+.container {
+  padding: 0 2rem;
+}
+
+.wrapper {
+  width: 500px;
+  height: 800px;
+  margin: 0 auto;  
+}
